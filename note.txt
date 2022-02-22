@@ -1,0 +1,2 @@
+what is an api?
+ans:Application Programming Interface.Which is a software intermediary that allows two applications to talk to each other.
